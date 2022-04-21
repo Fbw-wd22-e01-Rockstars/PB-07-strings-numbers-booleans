@@ -23,3 +23,7 @@
 10. Print the `J` and `S` of "JavaScript" from the variable `programmingLanguage` to the console. 
 
 11. Print the length of the string "JavaScript" to the console.
+
+
+
+
